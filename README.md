@@ -36,6 +36,32 @@ and is designed to progressively integrate **weather and disaster intelligence**
 - ESLint
 - Git & GitHub
 
+## 🛠️ Local Setup
+
+### Prerequisites
+
+- Node.js 20 or later
+- npm
+
+### Run the application
+
+1. Clone this repository and open the project directory.
+2. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+The project also provides `npm run build` to create a production build and `npm start` to serve that build locally.
+
 ---
 
 ## 📌 Project Status
